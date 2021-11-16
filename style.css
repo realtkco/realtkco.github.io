@@ -62,6 +62,7 @@ body{
 }
 .social__links ul li a span{
     line-height: 1.4rem;
+    margin-left: 2px;
 }
 .social__links ul .instagram:hover{
     background: #fd5949;
@@ -82,5 +83,5 @@ body{
   }
 
 span {
-    margin-left: 10px;
+    margin-left: 12px;
   }
